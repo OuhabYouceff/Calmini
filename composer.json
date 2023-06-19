@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+{     "require": {
+        "phpoffice/phpword": "^0.18.0",
+        "davmixcool/php-sentiment-analyzer": "^1.2"
+    }
+  }
+
+=======
+{
+    "name": "mycompany/my-project",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
+>>>>>>> origin/abdelmonam
